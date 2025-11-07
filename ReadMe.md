@@ -66,6 +66,18 @@ React_Course/
   - Event handling
   - Component reusability
 
+### 3. React-3: Learning React Through Projects [react-3]
+- **Purpose**: Master core React fundamentals through small, practical examples
+- **Key Features**:
+  - Demonstrates useState and re-rendering
+  - Explores props and child-parent data flow
+  - Illustrates the asynchronous nature of state updates
+- **Learning Outcomes**:
+  - Deep understanding of React Hooks
+  - State vs Props
+  - Asynchronous state updates
+  - Component behavior and rendering efficiency   
+
 ## Core React Concepts Learned
 
 ### 1. Components
